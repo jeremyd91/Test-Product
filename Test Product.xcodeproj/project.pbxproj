@@ -19,6 +19,7 @@
 		AF5D35611908574C00BB88CA /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AF5D35491908574C00BB88CA /* UIKit.framework */; };
 		AF5D35691908574C00BB88CA /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = AF5D35671908574C00BB88CA /* InfoPlist.strings */; };
 		AF5D356B1908574C00BB88CA /* Test_ProductTests.m in Sources */ = {isa = PBXBuildFile; fileRef = AF5D356A1908574C00BB88CA /* Test_ProductTests.m */; };
+		AF5D357519085E4700BB88CA /* Storyboard1.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF5D357419085E4700BB88CA /* Storyboard1.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		AF5D35661908574C00BB88CA /* Test ProductTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Test ProductTests-Info.plist"; sourceTree = "<group>"; };
 		AF5D35681908574C00BB88CA /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		AF5D356A1908574C00BB88CA /* Test_ProductTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Test_ProductTests.m; sourceTree = "<group>"; };
+		AF5D357419085E4700BB88CA /* Storyboard1.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard1.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 			children = (
 				AF5D35541908574C00BB88CA /* AppDelegate.h */,
 				AF5D35551908574C00BB88CA /* AppDelegate.m */,
+				AF5D357419085E4700BB88CA /* Storyboard1.storyboard */,
 				AF5D35571908574C00BB88CA /* Images.xcassets */,
 				AF5D354C1908574C00BB88CA /* Supporting Files */,
 			);
@@ -221,6 +224,7 @@
 			files = (
 				AF5D35501908574C00BB88CA /* InfoPlist.strings in Resources */,
 				AF5D35581908574C00BB88CA /* Images.xcassets in Resources */,
+				AF5D357519085E4700BB88CA /* Storyboard1.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
